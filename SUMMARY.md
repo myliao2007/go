@@ -1,6 +1,8 @@
 # Table of contents
 
-* [00-最新消息](README.md)
+* [最新消息](README.md)
+* [中文版更新日誌](log.md)
+* [譯者誌謝](yi-zhe-zhi-xie.md)
 * [01-起步走](start/README.md)
   * [01.01-檔案與資料夾](start/file\_dir.md)
   * [01.02-終端機（Terminal）](start/terminal.md)
@@ -72,4 +74,3 @@
   * [14.02-動手實作](next/14.02-dong-shou-shi-zuo.md)
   * [14.03-團隊合作](next/14.03-tuan-dui-he-zuo.md)
 * [15. 附錄-額外資源](appendix.md)
-* [中文版更新日誌](log.md)
