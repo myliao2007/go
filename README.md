@@ -1,11 +1,11 @@
-# 最新消息
+# 00-最新消息
 
 \
 
 
 <figure><img src=".gitbook/assets/go1.png" alt=""><figcaption></figcaption></figure>
 
-An Introduction to Programming in Go 的正體中文版，內容淺顯易懂，適合做為 Go 的入門資料。
+說明：An Introduction to Programming in Go 的正體中文版，內容淺顯易懂，適合做為 Go 的入門資料。
 
 譯者：[Aaron Ming-Yi Liao](http://aaron.netdpi.net)、Marcus Hsieh
 
@@ -13,7 +13,9 @@ An Introduction to Programming in Go 的正體中文版，內容淺顯易懂，�
 
 Email：aaron@netdpi.net
 
+感謝「國立成功大學／電機工程學系」協助
 
+感謝 Robert Lee 幫忙審閱中文翻譯
 
 原著：Caleb Doxsey
 
