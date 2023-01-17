@@ -7,7 +7,7 @@
 
 說明：An Introduction to Programming in Go 的正體中文版，內容淺顯易懂，適合做為 Go 的入門資料。
 
-譯者：[Aaron Ming-Yi Liao](http://applezulab.netdpi.net)、Marcus Hsieh
+譯者：[Aaron Ming-Yi Liao](https://netdpi.net)、Marcus Hsieh
 
 網址：https://go.netdpi.net&#x20;
 
