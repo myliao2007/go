@@ -11,7 +11,7 @@
 
 網址：https://go.netdpi.net&#x20;
 
-Email：aaron@netdpi.net
+Email：myliao2007@acm.org
 
 感謝「國立成功大學／電機工程學系」協助
 
