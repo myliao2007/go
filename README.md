@@ -1,7 +1,5 @@
 # 00-最新消息
 
-\
-
 
 <figure><img src=".gitbook/assets/go1.png" alt=""><figcaption></figcaption></figure>
 
