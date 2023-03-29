@@ -7,7 +7,7 @@
 
 譯者：[Aaron Ming-Yi Liao](https://netdpi.net)、Marcus Hsieh
 
-網址：https://go.netdpi.net&#x20;
+網址：https://go.netdpi.net
 
 Email：myliao2007@acm.org
 
