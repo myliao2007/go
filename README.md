@@ -5,7 +5,7 @@
 
 說明：An Introduction to Programming in Go 的正體中文版，內容淺顯易懂，適合做為 Go 的入門資料。
 
-譯者：[Aaron Ming-Yi Liao](https://applezulab.netdpi.net)、Marcus Hsieh
+譯者：[Aaron Ming-Yi Liao](https://www.linkedin.com/in/aaron-liao-bb50b6147/)、Marcus Hsieh
 
 網址：https://go.netdpi.net
 
